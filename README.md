@@ -1,2 +1,0 @@
-# WebRNG
-Percobaan 1
